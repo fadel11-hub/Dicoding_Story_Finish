@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/maps"
+        android:title="@string/title_maps"
+        android:icon="@drawable/google_maps"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"
+        android:icon="@drawable/redlog_out"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+</menu>

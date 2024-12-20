@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DicodingStory" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@color/navy</item>
+    </style>
+
+    <!-- Default application theme -->
+    <style name="Theme.DicodingStory" parent="Base.Theme.DicodingStory" />
+
+    <!-- Theme khusus untuk MapsActivity -->
+    <style name="Theme.MapsActivity" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Hapus ActionBar bawaan -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

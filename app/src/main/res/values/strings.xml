@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mari berbagi pengalaman menarik bersama temanmu di Dicoding Story App!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story App!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk bercerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Mari bagikan aktivitas mu bersama temanmu di Dicoding Story App.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="Upload">Upload</string>
+    <string name="Camera">Camera</string>
+    <string name="Gallery">Gallery</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="gagal_memuat">Gagal Mendapatkan Data</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="empty_image_warning">Masukkan gambar dulu yaa...</string>
+    <string name="yayy">Yeayyy!</string>
+    <string name="login_successful">Anda berhasil login. Sudah tidak sabar untuk upload ya?</string>
+    <string name="login_failed">Gagal Login</string>
+    <string name="gagal_memuat_data">Gagal memuat data, coba lagi nanti.</string>
+    <string name="username_password_salah">Username atau Password Anda Salah</string>
+    <string name="oke">Oke</string>
+    <string name="signup_success">Pendaftaran Berhasil</string>
+    <string name="signup_success_message">Pendaftaran Berhasil!</string>
+    <string name="signup_failed">Pendaftaran Gagal</string>
+    <string name="recheck_the_data">Periksa kembali Data Anda</string>
+    <string name="hint_description">Story Description</string>
+    <string name="password_too_short">Kata sandi harus memiliki panjang minimal 8 karakter</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+</resources>
